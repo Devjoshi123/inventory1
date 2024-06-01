@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #inventory-list {
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  
+  #inventory-form {
+    margin: 20px auto;
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #inventory-form input,
+  #inventory-form button {
+    margin: 5px 0;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
